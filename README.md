@@ -63,14 +63,14 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 
-- [找工作中]() &emsp; 📌 2023-10 —— Now
+- [找工作中]([]) &emsp; 📌 2023-10 —— Now
   
   - 工作岗位：cv/cs相关
   - 工作内容：
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [博世汽车部件（苏州）有限公司]([https://www.nio.cn/](https://www.bosch.com.cn/our-company/bosch-in-china/bosch-automotive-products-suzhou/)) &emsp; 📌 2023-03 —— 2023-09
+- [博世汽车部件（苏州）有限公司](www.bosch.com.cn) &emsp; 📌 2023-03 —— 2023-09
   
   - 工作岗位：XC-Paeking-EPY inter
 
